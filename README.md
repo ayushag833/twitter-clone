@@ -15,8 +15,8 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/ayushag833/twitter-clone.git
+cd twitter-clone
 
 # Install dependencies
 npm install
